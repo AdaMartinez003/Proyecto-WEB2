@@ -1,0 +1,39 @@
+
+<HTML>
+
+    <HEAD> <title> Conocenos </title> </HEAD> 
+
+<BODY>
+<CENTER>
+<DIV style="background-color: PINK display: block;"> 
+<STRONG>
+ <FONT SIZE=9 FACE="trebuchet MS" color="white"> Bienvenido a mi pagina web </FONT>
+</STRONG>
+</DIV>
+</CENTER>
+
+<TABLE BORDER=1 STYLE="width=100%; height=40%">
+<TR>  
+<TD style=width:20px > <center> <IMG SRC="DESCARGA.JFIF"> </center> </TD> 
+<TD> 
+<MARQUEE scrollamount=10 direction=down>      
+<FONT SIZE=7 FACE="trebuchet MS" color="ORANGE"> Conoce un poco sobre mí </FONT>
+</MARQUEE>
+</TD>
+<TR>
+</TABLE> <br> <br>
+
+<DIV style="background-color: GREY; display: block;">
+<ul style="font-size:20px; color-white;">
+   <li> 2 años de experiencia estudiando marketing digital </li>
+   <li> Desarrollo profesional en Unitec </li>
+   <li> Master en TICs </li>
+</ul>
+
+</DIV>
+
+<A HREF="index.html" style="float:right;"> REGRESAR A HOME </A>
+
+</BODY>
+
+</HTML>
